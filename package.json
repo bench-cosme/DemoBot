@@ -1,0 +1,24 @@
+{
+  "name": "demobot",
+  "version": "1.0.0",
+  "description": "Just a demo bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bench-cosme/DemoBot.git"
+  },
+  "author": "Bench",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bench-cosme/DemoBot/issues"
+  },
+  "homepage": "https://github.com/bench-cosme/DemoBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.3.0"
+  }
+}
