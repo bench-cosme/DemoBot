@@ -19,6 +19,6 @@
   "homepage": "https://github.com/bench-cosme/DemoBot#readme",
   "dependencies": {
     "botbuilder": "^3.11.0",
-    "restify": "^6.3.0"
+    "restify": "^6.3.1"
   }
 }
